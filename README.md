@@ -6,7 +6,7 @@ This is my repository for the course [Angular - The complete guide (2024 edition
 
 - [x] Getting Started
 - [x] Angular Essentials - Components, Templates, Services & More
-- [ ] Angular Essentials - Working with Modules
+- [x] Angular Essentials - Working with Modules
 - [ ] Angular Essentials - Time to Practice
 - [ ] Debugging Angular Apps
 - [ ] Components and Templates - Deep Dive
