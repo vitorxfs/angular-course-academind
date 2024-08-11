@@ -8,7 +8,7 @@ This is my repository for the course [Angular - The complete guide (2024 edition
 - [x] Angular Essentials - Components, Templates, Services & More
 - [x] Angular Essentials - Working with Modules
 - [x] Angular Essentials - Time to Practice
-- [ ] Debugging Angular Apps
+- [x] Debugging Angular Apps
 - [ ] Components and Templates - Deep Dive
 - [ ] Enhancing Elements with Directives - Deep Dive
 - [ ] Transforming Values with Pipes - Deep Dive
